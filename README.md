@@ -20,4 +20,4 @@ gallery of key events from the story.
 The main idea of the app is simple: show how rowing becomes a story about trust,
 teamwork, rhythm, and holding together under pressure.
 
-# new
+# New
